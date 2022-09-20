@@ -1,27 +1,27 @@
 [
   {
     "full_name": "bmarvinb/software-engineer-interview-preparation",
-    "stargazers_count": 312,
+    "stargazers_count": 314,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 165226,
+    "stargazers_count": 165530,
     "open_issues_count": 267,
-    "forks_count": 15499
+    "forks_count": 15534
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 26143,
+    "stargazers_count": 26160,
     "open_issues_count": 68,
-    "forks_count": 4217
+    "forks_count": 4219
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 32845,
+    "stargazers_count": 32965,
     "open_issues_count": 762,
-    "forks_count": 2696
+    "forks_count": 2716
   },
   {
     "full_name": "Akash4510/Google-Slides-Clone",
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "code-kern-ai/refinery",
-    "stargazers_count": 955,
-    "open_issues_count": 42,
-    "forks_count": 30
+    "stargazers_count": 960,
+    "open_issues_count": 43,
+    "forks_count": 31
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 196650,
+    "stargazers_count": 197124,
     "open_issues_count": 328,
-    "forks_count": 35420
+    "forks_count": 35504
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 77615,
+    "stargazers_count": 77859,
     "open_issues_count": 22,
-    "forks_count": 11223
+    "forks_count": 11259
   },
   {
     "full_name": "MeViMo/youbit",
-    "stargazers_count": 635,
+    "stargazers_count": 636,
     "open_issues_count": 2,
     "forks_count": 19
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 57294,
-    "open_issues_count": 7,
-    "forks_count": 8650
+    "stargazers_count": 57394,
+    "open_issues_count": 9,
+    "forks_count": 8690
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 232659,
+    "stargazers_count": 233716,
     "open_issues_count": 46,
-    "forks_count": 62351
+    "forks_count": 62527
   },
   {
     "full_name": "Exoutia/snake_game",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "dair-ai/ML-Course-Notes",
-    "stargazers_count": 4925,
+    "stargazers_count": 4931,
     "open_issues_count": 1,
-    "forks_count": 651
+    "forks_count": 653
   },
   {
     "full_name": "Exoutia/pythonista",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 219479,
-    "open_issues_count": 47,
-    "forks_count": 24197
+    "stargazers_count": 220063,
+    "open_issues_count": 49,
+    "forks_count": 24230
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 141684,
-    "open_issues_count": 314,
-    "forks_count": 21870
+    "stargazers_count": 142097,
+    "open_issues_count": 317,
+    "forks_count": 21886
   },
   {
     "full_name": "souravchandra1910/DSAPROBLEMS",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 14084,
-    "open_issues_count": 570,
-    "forks_count": 1836
+    "stargazers_count": 14102,
+    "open_issues_count": 569,
+    "forks_count": 1841
   },
   {
     "full_name": "Exoutia/Blockchain-with-python",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 9613,
+    "stargazers_count": 9664,
     "open_issues_count": 11,
-    "forks_count": 639
+    "forks_count": 643
   },
   {
     "full_name": "Akash4510/Regressors",
@@ -145,26 +145,26 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 144083,
-    "open_issues_count": 256,
-    "forks_count": 36772
+    "stargazers_count": 144413,
+    "open_issues_count": 258,
+    "forks_count": 36827
   },
   {
     "full_name": "freeCodeCamp/LearnToCodeRPG",
-    "stargazers_count": 845,
+    "stargazers_count": 846,
     "open_issues_count": 9,
     "forks_count": 77
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 248836,
+    "stargazers_count": 249308,
     "open_issues_count": 40,
-    "forks_count": 50705
+    "forks_count": 50770
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-py",
-    "stargazers_count": 8871,
-    "open_issues_count": 198,
-    "forks_count": 2440
+    "stargazers_count": 8899,
+    "open_issues_count": 199,
+    "forks_count": 2447
   }
 ]
