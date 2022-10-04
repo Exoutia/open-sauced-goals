@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "Riddhi9570/HackerrankPracticeProblems",
+    "stargazers_count": 44,
+    "open_issues_count": 38,
+    "forks_count": 69
+  },
+  {
     "full_name": "Verisimilitude11/DNAnalyzer",
-    "stargazers_count": 7,
-    "open_issues_count": 22,
-    "forks_count": 2
+    "stargazers_count": 19,
+    "open_issues_count": 24,
+    "forks_count": 21
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 354258,
-    "open_issues_count": 198,
-    "forks_count": 29581
+    "stargazers_count": 354616,
+    "open_issues_count": 218,
+    "forks_count": 29768
   },
   {
     "full_name": "wingkwong/leetcode-the-hard-way",
-    "stargazers_count": 199,
-    "open_issues_count": 20,
-    "forks_count": 44
+    "stargazers_count": 257,
+    "open_issues_count": 50,
+    "forks_count": 83
   },
   {
     "full_name": "bmarvinb/software-engineer-interview-preparation",
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 166511,
+    "stargazers_count": 166807,
     "open_issues_count": 267,
-    "forks_count": 15679
+    "forks_count": 15714
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 26229,
-    "open_issues_count": 69,
-    "forks_count": 4224
+    "stargazers_count": 26247,
+    "open_issues_count": 70,
+    "forks_count": 4229
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 33333,
-    "open_issues_count": 771,
-    "forks_count": 2759
+    "stargazers_count": 33435,
+    "open_issues_count": 778,
+    "forks_count": 2783
   },
   {
     "full_name": "Akash4510/Google-Slides-Clone",
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "code-kern-ai/refinery",
-    "stargazers_count": 971,
+    "stargazers_count": 981,
     "open_issues_count": 53,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 198540,
+    "stargazers_count": 198815,
     "open_issues_count": 331,
-    "forks_count": 35754
+    "forks_count": 35812
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 78434,
+    "stargazers_count": 78594,
     "open_issues_count": 24,
-    "forks_count": 11327
+    "forks_count": 11343
   },
   {
     "full_name": "MeViMo/youbit",
-    "stargazers_count": 644,
+    "stargazers_count": 645,
     "open_issues_count": 2,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "rohits05/Zomato-Clone",
@@ -85,15 +91,15 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 57661,
-    "open_issues_count": 14,
-    "forks_count": 8754
+    "stargazers_count": 57961,
+    "open_issues_count": 57,
+    "forks_count": 8856
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 234932,
-    "open_issues_count": 47,
-    "forks_count": 62846
+    "stargazers_count": 235101,
+    "open_issues_count": 48,
+    "forks_count": 62892
   },
   {
     "full_name": "Exoutia/snake_game",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "dair-ai/ML-Course-Notes",
-    "stargazers_count": 4941,
+    "stargazers_count": 4943,
     "open_issues_count": 1,
     "forks_count": 655
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 221307,
-    "open_issues_count": 48,
-    "forks_count": 24281
+    "stargazers_count": 221704,
+    "open_issues_count": 49,
+    "forks_count": 24293
   },
   {
     "full_name": "vinta/awesome-python",
-    "stargazers_count": 143169,
-    "open_issues_count": 291,
-    "forks_count": 21949
+    "stargazers_count": 143587,
+    "open_issues_count": 296,
+    "forks_count": 21958
   },
   {
     "full_name": "souravchandra1910/DSAPROBLEMS",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "huggingface/datasets",
-    "stargazers_count": 14163,
-    "open_issues_count": 559,
-    "forks_count": 1852
+    "stargazers_count": 14185,
+    "open_issues_count": 505,
+    "forks_count": 1855
   },
   {
     "full_name": "Exoutia/Blockchain-with-python",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 9850,
+    "stargazers_count": 9883,
     "open_issues_count": 11,
-    "forks_count": 660
+    "forks_count": 662
   },
   {
     "full_name": "Akash4510/Regressors",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 145562,
-    "open_issues_count": 270,
-    "forks_count": 36998
+    "stargazers_count": 145952,
+    "open_issues_count": 123,
+    "forks_count": 37181
   },
   {
     "full_name": "freeCodeCamp/LearnToCodeRPG",
-    "stargazers_count": 845,
+    "stargazers_count": 844,
     "open_issues_count": 9,
     "forks_count": 77
-  },
-  {
-    "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 250415,
-    "open_issues_count": 40,
-    "forks_count": 50915
   }
 ]
