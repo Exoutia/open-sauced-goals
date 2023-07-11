@@ -7,8 +7,8 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 920,
-    "open_issues_count": 100,
+    "stargazers_count": 924,
+    "open_issues_count": 101,
     "forks_count": 111
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "SmallLion/Python-Projects",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 1,
     "forks_count": 166
   },
@@ -37,50 +37,50 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 23354,
-    "open_issues_count": 1174,
-    "forks_count": 1654
+    "stargazers_count": 23435,
+    "open_issues_count": 1170,
+    "forks_count": 1663
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 71891,
+    "stargazers_count": 71934,
     "open_issues_count": 45,
-    "forks_count": 6864
+    "forks_count": 6870
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 113797,
-    "open_issues_count": 8,
-    "forks_count": 11729
+    "stargazers_count": 113884,
+    "open_issues_count": 9,
+    "forks_count": 11752
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
-    "stargazers_count": 2218,
-    "open_issues_count": 12,
-    "forks_count": 218
+    "stargazers_count": 2221,
+    "open_issues_count": 11,
+    "forks_count": 219
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 93015,
-    "open_issues_count": 513,
-    "forks_count": 34828
+    "stargazers_count": 93106,
+    "open_issues_count": 507,
+    "forks_count": 34844
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 3454,
-    "open_issues_count": 290,
-    "forks_count": 1705
+    "stargazers_count": 3474,
+    "open_issues_count": 295,
+    "forks_count": 1711
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 8778,
-    "open_issues_count": 149,
-    "forks_count": 700
+    "stargazers_count": 8792,
+    "open_issues_count": 158,
+    "forks_count": 702
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 9880,
-    "open_issues_count": 1,
+    "stargazers_count": 9901,
+    "open_issues_count": 2,
     "forks_count": 708
   },
   {
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 54360,
-    "open_issues_count": 8280,
-    "forks_count": 27200
+    "stargazers_count": 54414,
+    "open_issues_count": 8291,
+    "forks_count": 27220
   },
   {
     "full_name": "github/india",
-    "stargazers_count": 1714,
+    "stargazers_count": 1716,
     "open_issues_count": 63,
     "forks_count": 429
   },
@@ -111,7 +111,7 @@
     "full_name": "hudson-and-thames/mlfinlab",
     "stargazers_count": 3457,
     "open_issues_count": 34,
-    "forks_count": 1039
+    "forks_count": 1041
   },
   {
     "full_name": "Riddhi9570/HackerrankPracticeProblems",
@@ -122,18 +122,18 @@
   {
     "full_name": "VerisimilitudeX/DNAnalyzer",
     "stargazers_count": 115,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 55
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 369570,
-    "open_issues_count": 225,
-    "forks_count": 32813
+    "stargazers_count": 369716,
+    "open_issues_count": 223,
+    "forks_count": 32854
   },
   {
     "full_name": "wingkwong/leetcode-the-hard-way",
-    "stargazers_count": 677,
+    "stargazers_count": 678,
     "open_issues_count": 26,
     "forks_count": 185
   },
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 207431,
-    "open_issues_count": 282,
-    "forks_count": 20284
+    "stargazers_count": 207727,
+    "open_issues_count": 281,
+    "forks_count": 20307
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 27468,
+    "stargazers_count": 27481,
     "open_issues_count": 72,
-    "forks_count": 4392
+    "forks_count": 4397
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 51075,
-    "open_issues_count": 1088,
-    "forks_count": 4393
+    "stargazers_count": 51253,
+    "open_issues_count": 1098,
+    "forks_count": 4414
   },
   {
     "full_name": "Akash4510/Google-Slides-Clone",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "code-kern-ai/refinery",
-    "stargazers_count": 1229,
-    "open_issues_count": 71,
+    "stargazers_count": 1233,
+    "open_issues_count": 72,
     "forks_count": 51
   }
 ]
