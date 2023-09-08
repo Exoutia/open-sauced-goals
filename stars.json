@@ -1,9 +1,9 @@
 [
   {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 33080,
-    "open_issues_count": 23,
-    "forks_count": 1001
+    "stargazers_count": 34111,
+    "open_issues_count": 16,
+    "forks_count": 1040
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 994,
-    "open_issues_count": 109,
+    "stargazers_count": 1004,
+    "open_issues_count": 110,
     "forks_count": 118
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "SmallLion/Python-Projects",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 1,
     "forks_count": 174
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 24490,
-    "open_issues_count": 1128,
-    "forks_count": 1768
+    "stargazers_count": 24535,
+    "open_issues_count": 1125,
+    "forks_count": 1771
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 72832,
+    "stargazers_count": 72858,
     "open_issues_count": 46,
-    "forks_count": 6955
+    "forks_count": 6956
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 115373,
+    "stargazers_count": 115426,
     "open_issues_count": 33,
-    "forks_count": 11892
+    "forks_count": 11899
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 94245,
-    "open_issues_count": 519,
-    "forks_count": 34962
+    "stargazers_count": 94311,
+    "open_issues_count": 524,
+    "forks_count": 34969
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 3836,
-    "open_issues_count": 286,
-    "forks_count": 1842
+    "stargazers_count": 3849,
+    "open_issues_count": 277,
+    "forks_count": 1847
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 9061,
-    "open_issues_count": 257,
-    "forks_count": 717
+    "stargazers_count": 9074,
+    "open_issues_count": 258,
+    "forks_count": 718
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 10352,
-    "open_issues_count": 5,
-    "forks_count": 751
+    "stargazers_count": 10363,
+    "open_issues_count": 4,
+    "forks_count": 757
   },
   {
     "full_name": "rohits05/SQL-Ture",
@@ -109,20 +109,20 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 55520,
-    "open_issues_count": 8462,
-    "forks_count": 27600
+    "stargazers_count": 55589,
+    "open_issues_count": 8488,
+    "forks_count": 27622
   },
   {
     "full_name": "github/india",
-    "stargazers_count": 1722,
+    "stargazers_count": 1721,
     "open_issues_count": 64,
     "forks_count": 432
   },
   {
     "full_name": "hudson-and-thames/mlfinlab",
-    "stargazers_count": 3519,
-    "open_issues_count": 36,
+    "stargazers_count": 3525,
+    "open_issues_count": 35,
     "forks_count": 1057
   },
   {
@@ -133,45 +133,45 @@
   },
   {
     "full_name": "VerisimilitudeX/DNAnalyzer",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 6,
     "forks_count": 54
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 372631,
-    "open_issues_count": 269,
-    "forks_count": 33399
+    "stargazers_count": 373125,
+    "open_issues_count": 253,
+    "forks_count": 33446
   },
   {
     "full_name": "wingkwong/leetcode-the-hard-way",
-    "stargazers_count": 710,
+    "stargazers_count": 711,
     "open_issues_count": 23,
     "forks_count": 187
   },
   {
     "full_name": "bmadone/software-engineer-interview-preparation",
-    "stargazers_count": 378,
+    "stargazers_count": 379,
     "open_issues_count": 0,
     "forks_count": 59
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 215692,
-    "open_issues_count": 280,
-    "forks_count": 21006
+    "stargazers_count": 216521,
+    "open_issues_count": 281,
+    "forks_count": 21058
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 27778,
+    "stargazers_count": 27783,
     "open_issues_count": 72,
-    "forks_count": 4427
+    "forks_count": 4430
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 54211,
+    "stargazers_count": 54378,
     "open_issues_count": 1179,
-    "forks_count": 4717
+    "forks_count": 4738
   },
   {
     "full_name": "Akash4510/Google-Slides-Clone",
