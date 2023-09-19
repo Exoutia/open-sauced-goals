@@ -1,15 +1,15 @@
 [
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2020,
+    "stargazers_count": 2028,
     "open_issues_count": 12,
     "forks_count": 46
   },
   {
     "full_name": "opentffoundation/manifesto",
-    "stargazers_count": 35094,
-    "open_issues_count": 36,
-    "forks_count": 1067
+    "stargazers_count": 35288,
+    "open_issues_count": 41,
+    "forks_count": 1071
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1012,
-    "open_issues_count": 111,
-    "forks_count": 118
+    "stargazers_count": 1019,
+    "open_issues_count": 112,
+    "forks_count": 119
   },
   {
     "full_name": "Exoutia/my-resume-django",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "daviwil/dotfiles",
-    "stargazers_count": 740,
+    "stargazers_count": 739,
     "open_issues_count": 9,
     "forks_count": 188
   },
   {
     "full_name": "SmallLion/Python-Projects",
-    "stargazers_count": 43,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 177
   },
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 24704,
-    "open_issues_count": 1104,
-    "forks_count": 1780
+    "stargazers_count": 24776,
+    "open_issues_count": 1110,
+    "forks_count": 1786
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 72912,
-    "open_issues_count": 46,
-    "forks_count": 6965
+    "stargazers_count": 72948,
+    "open_issues_count": 47,
+    "forks_count": 6967
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 115558,
+    "stargazers_count": 115598,
     "open_issues_count": 35,
-    "forks_count": 11916
+    "forks_count": 11921
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
-    "stargazers_count": 2245,
-    "open_issues_count": 11,
+    "stargazers_count": 2246,
+    "open_issues_count": 10,
     "forks_count": 220
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 94492,
-    "open_issues_count": 532,
-    "forks_count": 34999
+    "stargazers_count": 94535,
+    "open_issues_count": 536,
+    "forks_count": 35009
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 3907,
-    "open_issues_count": 276,
-    "forks_count": 1859
+    "stargazers_count": 3927,
+    "open_issues_count": 278,
+    "forks_count": 1865
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 9108,
-    "open_issues_count": 267,
-    "forks_count": 719
+    "stargazers_count": 9124,
+    "open_issues_count": 270,
+    "forks_count": 721
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 10391,
-    "open_issues_count": 3,
-    "forks_count": 763
+    "stargazers_count": 10412,
+    "open_issues_count": 5,
+    "forks_count": 769
   },
   {
     "full_name": "rohits05/SQL-Ture",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 55719,
-    "open_issues_count": 8480,
-    "forks_count": 27665
+    "stargazers_count": 55763,
+    "open_issues_count": 8511,
+    "forks_count": 27687
   },
   {
     "full_name": "github/india",
-    "stargazers_count": 1721,
+    "stargazers_count": 1723,
     "open_issues_count": 64,
-    "forks_count": 432
+    "forks_count": 431
   },
   {
     "full_name": "hudson-and-thames/mlfinlab",
-    "stargazers_count": 3538,
+    "stargazers_count": 3547,
     "open_issues_count": 35,
-    "forks_count": 1058
+    "forks_count": 1060
   },
   {
     "full_name": "Riddhi9570/HackerrankPracticeProblems",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 373654,
-    "open_issues_count": 246,
-    "forks_count": 33503
+    "stargazers_count": 373912,
+    "open_issues_count": 262,
+    "forks_count": 33537
   },
   {
     "full_name": "wingkwong/leetcode-the-hard-way",
-    "stargazers_count": 712,
+    "stargazers_count": 713,
     "open_issues_count": 23,
     "forks_count": 188
   },
   {
     "full_name": "bmadone/software-engineer-interview-preparation",
-    "stargazers_count": 380,
+    "stargazers_count": 381,
     "open_issues_count": 0,
     "forks_count": 59
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 217119,
+    "stargazers_count": 217411,
     "open_issues_count": 282,
-    "forks_count": 21113
+    "forks_count": 21138
   },
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 27810,
+    "stargazers_count": 27824,
     "open_issues_count": 73,
-    "forks_count": 4441
+    "forks_count": 4443
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 54753,
-    "open_issues_count": 1191,
-    "forks_count": 4785
+    "stargazers_count": 54933,
+    "open_issues_count": 1200,
+    "forks_count": 4799
   }
 ]
