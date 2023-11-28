@@ -1,13 +1,13 @@
 [
   {
     "full_name": "NvChad/nvcommunity",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 2421,
+    "stargazers_count": 2426,
     "open_issues_count": 32,
     "forks_count": 54
   },
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 30220,
-    "open_issues_count": 166,
+    "stargazers_count": 30254,
+    "open_issues_count": 168,
     "forks_count": 3832
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 20245,
-    "open_issues_count": 0,
-    "forks_count": 1702
+    "stargazers_count": 20297,
+    "open_issues_count": 1,
+    "forks_count": 1709
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 864,
+    "stargazers_count": 902,
     "open_issues_count": 4,
-    "forks_count": 15
+    "forks_count": 18
   },
   {
     "full_name": "Dhanus3133/Leetbuddy.nvim",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 518,
-    "open_issues_count": 356,
+    "stargazers_count": 523,
+    "open_issues_count": 350,
     "forks_count": 83
   },
   {
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 1978,
-    "open_issues_count": 66,
-    "forks_count": 252
+    "stargazers_count": 2051,
+    "open_issues_count": 61,
+    "forks_count": 261
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2198,
+    "stargazers_count": 2208,
     "open_issues_count": 18,
     "forks_count": 50
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36098,
+    "stargazers_count": 36116,
     "open_issues_count": 29,
     "forks_count": 1145
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
-    "stargazers_count": 20,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1127,
+    "stargazers_count": 1134,
     "open_issues_count": 142,
-    "forks_count": 125
+    "forks_count": 126
   },
   {
     "full_name": "Exoutia/my-resume-django",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "daviwil/dotfiles",
-    "stargazers_count": 747,
+    "stargazers_count": 745,
     "open_issues_count": 9,
     "forks_count": 186
   },
@@ -115,51 +115,51 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 26342,
-    "open_issues_count": 1124,
-    "forks_count": 1911
+    "stargazers_count": 26442,
+    "open_issues_count": 1127,
+    "forks_count": 1919
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 73409,
+    "stargazers_count": 73438,
     "open_issues_count": 46,
-    "forks_count": 7030
+    "forks_count": 7035
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 116613,
+    "stargazers_count": 116648,
     "open_issues_count": 0,
-    "forks_count": 12036
+    "forks_count": 12041
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
-    "stargazers_count": 2262,
+    "stargazers_count": 2263,
     "open_issues_count": 10,
     "forks_count": 221
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 95807,
-    "open_issues_count": 495,
-    "forks_count": 35166
+    "stargazers_count": 95907,
+    "open_issues_count": 496,
+    "forks_count": 35185
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 4214,
-    "open_issues_count": 331,
-    "forks_count": 1955
+    "stargazers_count": 4227,
+    "open_issues_count": 329,
+    "forks_count": 1957
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 9388,
-    "open_issues_count": 326,
+    "stargazers_count": 9395,
+    "open_issues_count": 331,
     "forks_count": 729
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 10718,
+    "stargazers_count": 10729,
     "open_issues_count": 5,
-    "forks_count": 801
+    "forks_count": 804
   },
   {
     "full_name": "rohits05/SQL-Ture",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 56960,
-    "open_issues_count": 8700,
-    "forks_count": 28249
+    "stargazers_count": 57014,
+    "open_issues_count": 8689,
+    "forks_count": 28286
   }
 ]
