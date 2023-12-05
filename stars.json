@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "DopplerHQ/awesome-interview-questions",
+    "stargazers_count": 60151,
+    "open_issues_count": 31,
+    "forks_count": 7938
+  },
+  {
     "full_name": "NvChad/nvcommunity",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 2426,
-    "open_issues_count": 34,
-    "forks_count": 54
+    "stargazers_count": 2434,
+    "open_issues_count": 37,
+    "forks_count": 55
   },
   {
     "full_name": "Exoutia/dsa_pi",
@@ -19,20 +25,20 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 30291,
-    "open_issues_count": 168,
-    "forks_count": 3833
+    "stargazers_count": 30317,
+    "open_issues_count": 169,
+    "forks_count": 3831
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 20331,
-    "open_issues_count": 1,
-    "forks_count": 1715
+    "stargazers_count": 20375,
+    "open_issues_count": 2,
+    "forks_count": 1728
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 921,
-    "open_issues_count": 4,
+    "stargazers_count": 945,
+    "open_issues_count": 3,
     "forks_count": 18
   },
   {
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 527,
+    "stargazers_count": 530,
     "open_issues_count": 350,
     "forks_count": 84
   },
@@ -51,24 +57,24 @@
     "full_name": "h1tarxeth/Benvenuta-minimal_startpage",
     "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 2101,
-    "open_issues_count": 64,
-    "forks_count": 272
+    "stargazers_count": 2152,
+    "open_issues_count": 59,
+    "forks_count": 279
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2218,
+    "stargazers_count": 2229,
     "open_issues_count": 18,
-    "forks_count": 50
+    "forks_count": 52
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36151,
-    "open_issues_count": 30,
+    "stargazers_count": 36159,
+    "open_issues_count": 32,
     "forks_count": 1143
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1139,
+    "stargazers_count": 1146,
     "open_issues_count": 143,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "Exoutia/my-resume-django",
@@ -115,51 +121,51 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 26513,
-    "open_issues_count": 1133,
-    "forks_count": 1923
+    "stargazers_count": 26585,
+    "open_issues_count": 1132,
+    "forks_count": 1929
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 73450,
+    "stargazers_count": 73475,
     "open_issues_count": 46,
-    "forks_count": 7042
+    "forks_count": 7045
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 116694,
+    "stargazers_count": 116729,
     "open_issues_count": 0,
-    "forks_count": 12046
+    "forks_count": 12055
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
-    "stargazers_count": 2266,
+    "stargazers_count": 2267,
     "open_issues_count": 10,
     "forks_count": 221
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 96001,
-    "open_issues_count": 492,
-    "forks_count": 35200
+    "stargazers_count": 96071,
+    "open_issues_count": 495,
+    "forks_count": 35197
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 4229,
-    "open_issues_count": 327,
-    "forks_count": 1963
+    "stargazers_count": 4242,
+    "open_issues_count": 324,
+    "forks_count": 1969
   },
   {
     "full_name": "Shabinder/SpotiFlyer",
-    "stargazers_count": 9415,
-    "open_issues_count": 331,
-    "forks_count": 731
+    "stargazers_count": 9447,
+    "open_issues_count": 333,
+    "forks_count": 735
   },
   {
     "full_name": "AstroNvim/AstroNvim",
-    "stargazers_count": 10738,
+    "stargazers_count": 10751,
     "open_issues_count": 3,
-    "forks_count": 806
+    "forks_count": 807
   },
   {
     "full_name": "rohits05/SQL-Ture",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "rohits05/MONGO_Mite",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "python/cpython",
-    "stargazers_count": 57069,
-    "open_issues_count": 8672,
-    "forks_count": 28323
   }
 ]
