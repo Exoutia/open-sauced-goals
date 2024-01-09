@@ -1,15 +1,15 @@
 [
   {
     "full_name": "kRHYME7/Hyprdots-ctl",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 12339,
-    "open_issues_count": 6,
-    "forks_count": 1133
+    "stargazers_count": 14311,
+    "open_issues_count": 12,
+    "forks_count": 1347
   },
   {
     "full_name": "embrake/Aquilify",
@@ -19,25 +19,25 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 273872,
-    "open_issues_count": 226,
-    "forks_count": 30756
+    "stargazers_count": 274243,
+    "open_issues_count": 227,
+    "forks_count": 30797
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 61551,
-    "open_issues_count": 38,
-    "forks_count": 8097
+    "stargazers_count": 61773,
+    "open_issues_count": 39,
+    "forks_count": 8117
   },
   {
     "full_name": "NvChad/nvcommunity",
-    "stargazers_count": 48,
-    "open_issues_count": 1,
-    "forks_count": 9
+    "stargazers_count": 51,
+    "open_issues_count": 2,
+    "forks_count": 10
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 2489,
+    "stargazers_count": 2494,
     "open_issues_count": 33,
     "forks_count": 56
   },
@@ -49,63 +49,63 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 30664,
-    "open_issues_count": 173,
-    "forks_count": 3846
+    "stargazers_count": 30709,
+    "open_issues_count": 174,
+    "forks_count": 3845
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 20792,
+    "stargazers_count": 20829,
     "open_issues_count": 1,
-    "forks_count": 1789
+    "forks_count": 1799
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 1228,
-    "open_issues_count": 6,
-    "forks_count": 21
+    "stargazers_count": 1269,
+    "open_issues_count": 8,
+    "forks_count": 22
   },
   {
     "full_name": "Dhanus3133/Leetbuddy.nvim",
-    "stargazers_count": 148,
+    "stargazers_count": 147,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 553,
+    "stargazers_count": 558,
     "open_issues_count": 360,
-    "forks_count": 91
+    "forks_count": 93
   },
   {
     "full_name": "h1tarxeth/Benvenuta-minimal_startpage",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 0,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 2740,
-    "open_issues_count": 79,
-    "forks_count": 369
+    "stargazers_count": 2826,
+    "open_issues_count": 82,
+    "forks_count": 376
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2351,
+    "stargazers_count": 2369,
     "open_issues_count": 21,
     "forks_count": 54
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36247,
-    "open_issues_count": 34,
-    "forks_count": 1138
+    "stargazers_count": 36242,
+    "open_issues_count": 35,
+    "forks_count": 1139
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "Alteian/django-docker-project-builder",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1196,
-    "open_issues_count": 149,
-    "forks_count": 132
+    "stargazers_count": 1199,
+    "open_issues_count": 148,
+    "forks_count": 133
   },
   {
     "full_name": "Exoutia/my-resume-django",
@@ -135,7 +135,7 @@
     "full_name": "SmallLion/Python-Projects",
     "stargazers_count": 50,
     "open_issues_count": 1,
-    "forks_count": 196
+    "forks_count": 197
   },
   {
     "full_name": "Exoutia/coding-interview-university",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 27184,
-    "open_issues_count": 1156,
-    "forks_count": 1965
+    "stargazers_count": 27249,
+    "open_issues_count": 1135,
+    "forks_count": 1973
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 73895,
+    "stargazers_count": 73952,
     "open_issues_count": 46,
-    "forks_count": 7085
+    "forks_count": 7091
   },
   {
     "full_name": "Chalarangelo/30-seconds-of-code",
-    "stargazers_count": 117354,
+    "stargazers_count": 117402,
     "open_issues_count": 0,
-    "forks_count": 12111
+    "forks_count": 12116
   },
   {
     "full_name": "miguelgrinberg/Flask-Migrate",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 96674,
-    "open_issues_count": 499,
-    "forks_count": 35289
+    "stargazers_count": 96740,
+    "open_issues_count": 498,
+    "forks_count": 35299
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 4417,
-    "open_issues_count": 344,
-    "forks_count": 2026
+    "stargazers_count": 4434,
+    "open_issues_count": 352,
+    "forks_count": 2037
   }
 ]
