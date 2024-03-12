@@ -7,13 +7,13 @@
   },
   {
     "full_name": "dccsillag/magma-nvim",
-    "stargazers_count": 800,
+    "stargazers_count": 806,
     "open_issues_count": 58,
     "forks_count": 47
   },
   {
     "full_name": "erictossell/nixflakes",
-    "stargazers_count": 172,
+    "stargazers_count": 179,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 25287,
+    "stargazers_count": 25577,
     "open_issues_count": 27,
-    "forks_count": 2457
+    "forks_count": 2502
   },
   {
     "full_name": "embrake/Aquilify",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 284568,
-    "open_issues_count": 255,
-    "forks_count": 31043
+    "stargazers_count": 285206,
+    "open_issues_count": 261,
+    "forks_count": 31119
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 65308,
+    "stargazers_count": 65427,
     "open_issues_count": 48,
-    "forks_count": 8473
+    "forks_count": 8491
   },
   {
     "full_name": "NvChad/nvcommunity",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 2631,
+    "stargazers_count": 2640,
     "open_issues_count": 37,
     "forks_count": 68
   },
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 31334,
+    "stargazers_count": 31387,
     "open_issues_count": 179,
-    "forks_count": 3647
+    "forks_count": 3646
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 22304,
-    "open_issues_count": 2,
-    "forks_count": 1978
+    "stargazers_count": 22317,
+    "open_issues_count": 0,
+    "forks_count": 1995
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 1671,
-    "open_issues_count": 11,
-    "forks_count": 34
+    "stargazers_count": 1697,
+    "open_issues_count": 10,
+    "forks_count": 35
   },
   {
     "full_name": "Dhanus3133/Leetbuddy.nvim",
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 604,
-    "open_issues_count": 368,
+    "stargazers_count": 606,
+    "open_issues_count": 372,
     "forks_count": 99
   },
   {
     "full_name": "h1tarxeth/Benvenuta-minimal_startpage",
     "stargazers_count": 28,
     "open_issues_count": 0,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 3904,
-    "open_issues_count": 76,
-    "forks_count": 505
+    "stargazers_count": 3955,
+    "open_issues_count": 75,
+    "forks_count": 510
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2534,
+    "stargazers_count": 2548,
     "open_issues_count": 21,
     "forks_count": 58
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36270,
+    "stargazers_count": 36269,
     "open_issues_count": 20,
     "forks_count": 1121
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1363,
-    "open_issues_count": 168,
-    "forks_count": 149
+    "stargazers_count": 1368,
+    "open_issues_count": 169,
+    "forks_count": 151
   },
   {
     "full_name": "Exoutia/my-resume-django",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "daviwil/dotfiles",
-    "stargazers_count": 765,
+    "stargazers_count": 769,
     "open_issues_count": 9,
     "forks_count": 184
   },
@@ -159,7 +159,7 @@
     "full_name": "SmallLion/Python-Projects",
     "stargazers_count": 52,
     "open_issues_count": 1,
-    "forks_count": 167
+    "forks_count": 166
   },
   {
     "full_name": "Exoutia/coding-interview-university",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 28674,
-    "open_issues_count": 1162,
+    "stargazers_count": 28743,
+    "open_issues_count": 1171,
     "forks_count": 2050
   },
   {
     "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 75962,
+    "stargazers_count": 76013,
     "open_issues_count": 46,
-    "forks_count": 7266
+    "forks_count": 7272
   }
 ]
