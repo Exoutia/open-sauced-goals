@@ -1,9 +1,9 @@
 [
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 22827,
-    "open_issues_count": 89,
-    "forks_count": 2474
+    "stargazers_count": 23143,
+    "open_issues_count": 95,
+    "forks_count": 2513
   },
   {
     "full_name": "ErichDonGubler/lsp_lines.nvim",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "dccsillag/magma-nvim",
-    "stargazers_count": 851,
+    "stargazers_count": 854,
     "open_issues_count": 54,
     "forks_count": 49
   },
   {
     "full_name": "erictossell/nixflakes",
-    "stargazers_count": 208,
+    "stargazers_count": 209,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -32,14 +32,14 @@
   {
     "full_name": "kRHYME7/Hyde-cli",
     "stargazers_count": 30,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 28609,
+    "stargazers_count": 28816,
     "open_issues_count": 36,
-    "forks_count": 2910
+    "forks_count": 2935
   },
   {
     "full_name": "embrake/Aquilify",
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 291870,
-    "open_issues_count": 252,
-    "forks_count": 31782
+    "stargazers_count": 292087,
+    "open_issues_count": 254,
+    "forks_count": 31812
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 67097,
-    "open_issues_count": 48,
-    "forks_count": 8644
+    "stargazers_count": 67177,
+    "open_issues_count": 49,
+    "forks_count": 8653
   },
   {
     "full_name": "NvChad/nvcommunity",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 2755,
+    "stargazers_count": 2759,
     "open_issues_count": 42,
     "forks_count": 69
   },
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 31817,
+    "stargazers_count": 31851,
     "open_issues_count": 181,
     "forks_count": 3654
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 22866,
+    "stargazers_count": 22908,
     "open_issues_count": 0,
-    "forks_count": 2027
+    "forks_count": 2035
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 1924,
+    "stargazers_count": 1941,
     "open_issues_count": 10,
     "forks_count": 45
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 669,
-    "open_issues_count": 374,
+    "stargazers_count": 672,
+    "open_issues_count": 373,
     "forks_count": 111
   },
   {
@@ -115,25 +115,25 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 4631,
-    "open_issues_count": 94,
-    "forks_count": 601
+    "stargazers_count": 4671,
+    "open_issues_count": 95,
+    "forks_count": 603
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 2686,
+    "stargazers_count": 2691,
     "open_issues_count": 22,
     "forks_count": 60
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36231,
+    "stargazers_count": 36237,
     "open_issues_count": 20,
     "forks_count": 1108
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1450,
-    "open_issues_count": 184,
+    "stargazers_count": 1455,
+    "open_issues_count": 180,
     "forks_count": 154
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "daviwil/dotfiles",
-    "stargazers_count": 780,
+    "stargazers_count": 785,
     "open_issues_count": 9,
     "forks_count": 186
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 29996,
-    "open_issues_count": 748,
-    "forks_count": 2208
+    "stargazers_count": 30050,
+    "open_issues_count": 737,
+    "forks_count": 2217
   }
 ]
