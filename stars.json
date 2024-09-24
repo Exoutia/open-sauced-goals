@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "dailydotdev/daily",
+    "stargazers_count": 18053,
+    "open_issues_count": 73,
+    "forks_count": 466
+  },
+  {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 80297,
+    "stargazers_count": 80319,
     "open_issues_count": 62,
     "forks_count": 7307
   },
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "maaslalani/pom",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 31393,
-    "open_issues_count": 148,
-    "forks_count": 3621
+    "stargazers_count": 31784,
+    "open_issues_count": 146,
+    "forks_count": 3662
   },
   {
     "full_name": "ErichDonGubler/lsp_lines.nvim",
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "dccsillag/magma-nvim",
-    "stargazers_count": 992,
-    "open_issues_count": 56,
+    "stargazers_count": 995,
+    "open_issues_count": 55,
     "forks_count": 50
   },
   {
     "full_name": "erictossell/nixflakes",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "HyDE-Project/Hyde-cli",
-    "stargazers_count": 84,
+    "stargazers_count": 88,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "mlabonne/llm-course",
-    "stargazers_count": 37250,
+    "stargazers_count": 37398,
     "open_issues_count": 52,
-    "forks_count": 3915
+    "forks_count": 3932
   },
   {
     "full_name": "embrake/Aquilify",
@@ -67,26 +73,26 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 312649,
-    "open_issues_count": 337,
-    "forks_count": 33390
+    "stargazers_count": 312937,
+    "open_issues_count": 341,
+    "forks_count": 33406
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 70466,
+    "stargazers_count": 70537,
     "open_issues_count": 51,
-    "forks_count": 8849
+    "forks_count": 8855
   },
   {
     "full_name": "NvChad/nvcommunity",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "rcarriga/nvim-notify",
-    "stargazers_count": 3004,
-    "open_issues_count": 62,
+    "stargazers_count": 3016,
+    "open_issues_count": 61,
     "forks_count": 80
   },
   {
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 33422,
+    "stargazers_count": 33469,
     "open_issues_count": 184,
-    "forks_count": 3676
+    "forks_count": 3673
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 24324,
+    "stargazers_count": 24374,
     "open_issues_count": 0,
-    "forks_count": 2109
+    "forks_count": 2111
   },
   {
     "full_name": "nvimtools/none-ls.nvim",
-    "stargazers_count": 2452,
-    "open_issues_count": 17,
-    "forks_count": 73
+    "stargazers_count": 2464,
+    "open_issues_count": 19,
+    "forks_count": 74
   },
   {
     "full_name": "Dhanus3133/Leetbuddy.nvim",
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "pygame-community/pygame-ce",
-    "stargazers_count": 827,
-    "open_issues_count": 390,
-    "forks_count": 132
+    "stargazers_count": 829,
+    "open_issues_count": 397,
+    "forks_count": 138
   },
   {
     "full_name": "h1tarxeth/Benvenuta-minimal_startpage",
@@ -133,21 +139,21 @@
   },
   {
     "full_name": "prasanthrangan/hyprdots",
-    "stargazers_count": 6659,
-    "open_issues_count": 102,
-    "forks_count": 791
+    "stargazers_count": 6709,
+    "open_issues_count": 84,
+    "forks_count": 794
   },
   {
     "full_name": "kylechui/nvim-surround",
-    "stargazers_count": 3115,
+    "stargazers_count": 3123,
     "open_issues_count": 11,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "opentofu/manifesto",
-    "stargazers_count": 36218,
+    "stargazers_count": 36217,
     "open_issues_count": 22,
-    "forks_count": 1096
+    "forks_count": 1095
   },
   {
     "full_name": "rohits05/Strivers-SDE-Sheet-Challenge",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "LNReader/lnreader",
-    "stargazers_count": 1687,
+    "stargazers_count": 1692,
     "open_issues_count": 181,
     "forks_count": 182
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "daviwil/dotfiles",
-    "stargazers_count": 816,
-    "open_issues_count": 9,
-    "forks_count": 179
   }
 ]
